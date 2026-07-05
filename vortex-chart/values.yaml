@@ -5,7 +5,7 @@ replicaCount: 2
 image:
   repository: mangeshforstudy/vortex
   # Jenkins will automatically overwrite this tag value on every pipeline run
-  tag: "2.3.0-build-8"
+  tag: "2.3.0-build-9"
   pullPolicy: IfNotPresent
 
 service:
